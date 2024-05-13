@@ -1,2 +1,2 @@
 # parallel-search
-Parallel Exploratory Search
+Parallel Exploratory Search using cilk plus for solving Othello
